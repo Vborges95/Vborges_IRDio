@@ -55,4 +55,5 @@ A escolha do animal tinha um significado simbólico:
  - Inspira respeito e não medo gratuito.
 A ideia era mostrar que o fisco não era arbitrário, mas sim firme no cumprimento da lei — por isso, um leão: não é covarde, mas também não é agressivo sem razão.
 Desde então, a imagem do “Leão do Imposto de Renda” pegou na cultura popular e se mantém até hoje como um símbolo da Receita Federal, especialmente no período da declaração do IR.
+
 💡 Por isso, o projeto leva o nome "APP PREMIER", fazendo referência à Premier League, que também tem o leão como símbolo — representando força, organização e prestígio financeiro.
